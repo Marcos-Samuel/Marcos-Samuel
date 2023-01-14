@@ -8,10 +8,6 @@
 - ⚡ Curiosidades: Amo Pets
 
 
-![Marcos-Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Samuel&show_icons=true&theme=radical)       [![MarcosSamuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarcosSamuel)](https://github.com/anuraghazra/github-readme-stats)>
-
-
- 
 
 
 
