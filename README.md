@@ -1,20 +1,32 @@
-                        ### Olá! tudo bem? Me chamo Marcos Samuel sou estudante de desenvolvimento de soft👋
+                    
+<h2><img src="https://media2.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif?cid=ecf05e47xjyn761ujsrrr0h6c47dftu9fsr0fnwem26lvyos&rid=giphy.gif&ct=s" width="50">, I'm Marcos Samuel! </h2>
+
+<p><em>Software Development at <a href="https://cubos.academy">Cubos Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 Estudante: Análise de Desenvolvimento de Soft
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidades: Amo Pets
-
-##
-
+```javascript
+const Marcos = {
+  pronouns: "him" | "his" | "ele | dele,
+  code: [Javascript, Typescript, HTML, CSS]
+  tools: [React, Rest, Node, NPM, PostgreSQL, API's Rest],
+  architecture: ["microservices"],
+  techCommunities: {
+                        speaker: "Português",
+                        mentor: "Cubos Academy"
+                      },
+ challenge: "I'm doing the #100DaysOfCode challenge focused on improving my programming logic using java.script"
+}
+```
 
 
 
 ![Snake animation](https://github.com/Marcos-Samuel/Marcos-Samuel/blob/output/github-contribution-grid-snake.svg)
 
-##
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pepe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,9 +48,9 @@
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Samuel&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
-  ##
- 
+  
+##
+  ## <img height="40" src="https://media0.giphy.com/media/Wg7lyky0Ecw0sgDYtw/giphy.gif?cid=ecf05e47l7tsljuyyyux0je4xcqb4wqmzwbdfg7n6wcd9g3t&rid=giphy.gif&ct=s"/> Contact-me 
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5531995611299&text=Ol%C3%A1!%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pepe0_p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
