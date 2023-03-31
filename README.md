@@ -35,8 +35,8 @@ const Pepe = {
   <img align="center" alt="Pepe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pepe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pepe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pepe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pepe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+
  
  <img align="right" alt="Pepe-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/images/004/298/950/original/png-transparent-drawing-video-chibi-kawaii-chibi-mammal-cat-like-mammal-carnivoran__1_-removebg-preview-removebg-preview.png?1673704037">
 </div>
