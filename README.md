@@ -15,7 +15,7 @@ const Pepe = {
   tools: [React, Rest, Node, NPM, PostgreSQL, API's Rest],
   architecture: ["microservices"],
   techCommunities: {
-                        speaker: "Português",
+                        speaker: "Português","English",
                         mentor: "Cubos Academy"
                       },
  challenge: "I'm doing the #100DaysOfCode challenge focused on improving my programming logic using java.script"
