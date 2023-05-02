@@ -19,7 +19,7 @@ const Pepe = {
                         mentor: "Cubos Academy"
                       },
  challenge: "I'm doing the #100DaysOfCode challenge focused on improving my programming logic using java.script,
-             "Estou fazendo o desafio #100DaysOfCode focado em melhorar minha lógica de programação usando java.script""
+             Estou fazendo o desafio #100DaysOfCode focado em melhorar minha lógica de programação usando java.script"
 }
 ```
 
