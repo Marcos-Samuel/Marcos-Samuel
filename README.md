@@ -1,16 +1,16 @@
                     
-<h2><img src="https://media2.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif?cid=ecf05e47xjyn761ujsrrr0h6c47dftu9fsr0fnwem26lvyos&rid=giphy.gif&ct=s" width="50">, I'm Marcos Samuel!
-| Also Known As Pepe! </h2>
+<h2><img src="https://media2.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif?cid=ecf05e47xjyn761ujsrrr0h6c47dftu9fsr0fnwem26lvyos&rid=giphy.gif&ct=s" width="50">, Me chamo Marcos Samuel!
+| Tambem conhecindo como Pepe! </h2>
 
-<p><em>Software Development at <a href="https://cubos.academy">Cubos Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p><em>Estudo Desenvolvimento de software na <a href="https://cubos.academy">Cubos Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim... 
 
 ```javascript
 const Pepe = {
-  pronouns: "him" | "his" | "ele | dele,
+  pronouns: "ele | dele,
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Rest, Node, Dom, Git, API's Rest],
   architecture: ["microservices"],
