@@ -11,7 +11,7 @@
 ```javascript
 const Pepe = {
   pronouns: "him" | "his" | "ele | dele,
-  code: [Javascript, Typescript, HTML, CSS]
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Rest, Node, Dom, Git, API's Rest],
   architecture: ["microservices"],
   techCommunities: {
