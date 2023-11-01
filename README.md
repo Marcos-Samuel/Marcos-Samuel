@@ -12,7 +12,7 @@
 const Pepe = {
   pronouns: "ele | dele,
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Rest, Node, Dom, Git, API's Rest],
+  tools: [React, Rest, Next, Node, Dom, Git, API's Rest],
   architecture: ["microservices"],
   techCommunities: {
                         speaker: "Português","English",
