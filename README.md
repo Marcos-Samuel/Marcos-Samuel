@@ -2,7 +2,7 @@
 <h2><img src="https://media2.giphy.com/media/ZeLcIBH7lKfLOkaBRH/giphy.gif?cid=ecf05e47xjyn761ujsrrr0h6c47dftu9fsr0fnwem26lvyos&rid=giphy.gif&ct=s" width="50"> Me chamo Marcos Samuel!
 | Tambem conhecido como Pepe! </h2>
 
-<p><em>Estudo Desenvolvimento de software na <a href="https://cubos.academy">Cubos Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p><em>Estudo Ciencias da Computação  na <a href="https://estacio.br/inscricao?gad_source=1&gclid=CjwKCAiAq4KuBhA6EiwArMAw1FXiwfIzkks-Fy-YJCws2SGe9-5FYHp6ghuyNKeWnJz7KzdaH2KOfxoCoNUQAvD_BwE&gclsrc=aw.ds">Estácio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 
 
